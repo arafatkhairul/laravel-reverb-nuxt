@@ -1,8 +1,8 @@
 {
   "name": "laravel-reverb-nuxt",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "The Simplified Laravel Reverb Plugin for - Nuxt JS",
-  "repository": "your-org/my-module",
+  "repository": "https://github.com/arafatkhairul/laravel-reverb-nuxt",
   "license": "MIT",
   "type": "module",
   "exports": {
