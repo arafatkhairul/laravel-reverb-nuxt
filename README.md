@@ -9,11 +9,6 @@ Find and replace all on all files (CMD+SHIFT+F):
 
 # Laravel Reverb Nuxt
 
-[![npm version][npm-version-src]][npm-version-href]
-[![npm downloads][npm-downloads-src]][npm-downloads-href]
-[![License][license-src]][license-href]
-[![Nuxt][nuxt-src]][nuxt-href]
-
 🔥 The Simplified Laravel Reverb Plugin for - Nuxt JS!
 
 - [✨ &nbsp;Release Notes](/CHANGELOG.md)
@@ -23,9 +18,11 @@ Find and replace all on all files (CMD+SHIFT+F):
 ## Features
 
 <!-- Highlight some of the features your module provide here -->
-- ⛰ &nbsp;Larvel Reverb
-- 🚠 &nbsp;Realtime
-- 🌲 &nbsp;Easy to use
+- 🔥 Blazing Speed: Provides outstanding performance for real-time information with no lags.
+- Scalability: Grow with your applications to handle increased user traffic.
+- Seamless Integration: It works with broadcasting features added to Laravel and Laravel Echo to make development simple.
+- Push Updates: Push updates, messages, or events to clients to share your information instantly.
+- Built-in Security: Data encryption and authentication assurance for security communication.
 
 ## Quick Setup
 

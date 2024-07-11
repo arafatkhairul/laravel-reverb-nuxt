@@ -1,15 +1,12 @@
-import Echo from "laravel-echo";
-
-import Pusher from "pusher-js";
+import Echo from 'laravel-echo'
+import Pusher from 'pusher-js'
 import { useState } from '#app'
 
 function reverbConfiguration() {
-  return useState('reverbConfig').value;
+  return useState('reverbConfig').value
 }
-
 export function reverb() {
-  window.Pusher = Pusher;
-
+  window.Pusher = Pusher
   return new Echo({
     broadcaster: 'reverb',
     encrypted: false,
@@ -21,4 +18,3 @@ export function reverb() {
     enabledTransports: ['ws', 'wss'],
   })
 }
-

@@ -8,6 +8,6 @@ export default defineNuxtConfig({
     REVERB_APP_SECRET: 'vpdu8yljg6npzejzl0vi',
     REVERB_HOST: 'localhost',
     REVERB_PORT: 8080,
-    REVERB_SCHEME: 'http'
-  }
+    REVERB_SCHEME: 'http',
+  },
 })

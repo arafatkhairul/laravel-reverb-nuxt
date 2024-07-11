@@ -7,7 +7,7 @@
 <script setup>
 onMounted(() => {
   reverb().channel('chat').listen('Example', (event) => {
-    console.log(event);
-  });
+    console.log(event)
+  })
 })
 </script>
